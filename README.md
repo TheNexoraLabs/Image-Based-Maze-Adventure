@@ -70,7 +70,7 @@ maze_ai/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/MahsimaEbrahimi/Image-Based-Maze-Adventure.git
+git clone https://github.com/TheNexoraLabs/Image-Based-Maze-Adventure.git
 cd Image-Based-Maze-Adventure
 ```
 
