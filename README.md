@@ -70,8 +70,8 @@ maze_ai/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/maze-ai.git
-cd maze-ai
+git clone https://github.com/MahsimaEbrahimi/Image-Based-Maze-Adventure.git
+cd Image-Based-Maze-Adventure
 ```
 
 ### 2. Install dependencies
